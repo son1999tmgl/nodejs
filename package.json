@@ -23,6 +23,10 @@
     "@babel/core": "^7.23.3",
     "@babel/node": "^7.22.19",
     "@babel/preset-env": "^7.23.3",
+    "bcrypt": "^5.1.1",
+    "http-errors": "^2.0.0",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
     "sequelize-cli": "^6.6.2"
   }
 }
