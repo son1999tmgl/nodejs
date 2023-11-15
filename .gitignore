@@ -1,1 +1,5 @@
 /node_modules
+scrapy/node_modules
+scrapy/images
+package-lock.json
+scrapy/package-lock.json
