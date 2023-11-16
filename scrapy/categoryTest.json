@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Home",
+    "href": "https://expressjs.com/",
+    "subMenu": []
+  },
+  {
+    "title": "Getting started",
+    "href": "https://expressjs.com/en/starter/installing.html",
+    "subMenu": [
+      {
+        "title": "\nInstalling\n",
+        "href": "https://expressjs.com/en/starter/installing.html"
+      },
+      {
+        "title": "Hello world",
+        "href": "https://expressjs.com/en/starter/hello-world.html"
+      },
+      {
+        "title": "Express generator",
+        "href": "https://expressjs.com/en/starter/generator.html"
+      },
+      {
+        "title": "Basic routing",
+        "href": "https://expressjs.com/en/starter/basic-routing.html"
+      },
+      {
+        "title": "Static files",
+        "href": "https://expressjs.com/en/starter/static-files.html"
+      },
+      {
+        "title": "More examples",
+        "href": "https://expressjs.com/en/starter/examples.html"
+      },
+      {
+        "title": "FAQ",
+        "href": "https://expressjs.com/en/starter/faq.html"
+      }
+    ]
+  },
+  {
+    "title": "Guide",
+    "href": "https://expressjs.com/en/guide/routing.html",
+    "subMenu": [
+      {
+        "title": "Routing",
+        "href": "https://expressjs.com/en/guide/routing.html"
+      },
+      {
+        "title": "Writing middleware",
+        "href": "https://expressjs.com/en/guide/writing-middleware.html"
+      },
+      {
+        "title": "Using middleware",
+        "href": "https://expressjs.com/en/guide/using-middleware.html"
+      },
+      {
+        "title": "Overriding the Express API",
+        "href": "https://expressjs.com/en/guide/overriding-express-api.html"
+      },
+      {
+        "title": "Using template engines",
+        "href": "https://expressjs.com/en/guide/using-template-engines.html"
+      },
+      {
+        "title": "Error handling",
+        "href": "https://expressjs.com/en/guide/error-handling.html"
+      },
+      {
+        "title": "Debugging",
+        "href": "https://expressjs.com/en/guide/debugging.html"
+      },
+      {
+        "title": "Express behind proxies",
+        "href": "https://expressjs.com/en/guide/behind-proxies.html"
+      },
+      {
+        "title": "Moving to Express 4",
+        "href": "https://expressjs.com/en/guide/migrating-4.html"
+      },
+      {
+        "title": "Moving to Express 5",
+        "href": "https://expressjs.com/en/guide/migrating-5.html"
+      },
+      {
+        "title": "Database integration",
+        "href": "https://expressjs.com/en/guide/database-integration.html"
+      }
+    ]
+  },
+  {
+    "title": "API reference",
+    "href": "https://expressjs.com/en/4x/api.html",
+    "subMenu": [
+      {
+        "title": "5.x (beta)",
+        "href": "https://expressjs.com/en/5x/api.html"
+      },
+      {
+        "title": "4.x",
+        "href": "https://expressjs.com/en/4x/api.html"
+      },
+      {
+        "title": "3.x (deprecated)",
+        "href": "https://expressjs.com/en/3x/api.html"
+      },
+      {
+        "title": "2.x (deprecated)",
+        "href": "https://expressjs.com/2x/"
+      }
+    ]
+  },
+  {
+    "title": "Advanced topics",
+    "href": "https://expressjs.com/en/advanced/developing-template-engines.html",
+    "subMenu": [
+      {
+        "title": "Template engines",
+        "href": "https://expressjs.com/en/advanced/developing-template-engines.html"
+      },
+      {
+        "title": "Process managers",
+        "href": "https://expressjs.com/en/advanced/pm.html"
+      },
+      {
+        "title": "Security updates",
+        "href": "https://expressjs.com/en/advanced/security-updates.html"
+      },
+      {
+        "title": "Security best practices",
+        "href": "https://expressjs.com/en/advanced/best-practice-security.html"
+      },
+      {
+        "title": "Performance best practices",
+        "href": "https://expressjs.com/en/advanced/best-practice-performance.html"
+      },
+      {
+        "title": "Health checks and graceful shutdown",
+        "href": "https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html"
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "href": "https://expressjs.com/en/resources/glossary.html",
+    "subMenu": [
+      {
+        "title": "Community",
+        "href": "https://expressjs.com/en/resources/community.html"
+      },
+      {
+        "title": "Glossary",
+        "href": "https://expressjs.com/en/resources/glossary.html"
+      },
+      {
+        "title": "Template Engines",
+        "href": "https://expressjs.com/en/resources/template-engines.html"
+      },
+      {
+        "title": "Middleware",
+        "href": "https://expressjs.com/en/resources/middleware.html"
+      },
+      {
+        "title": "Utility modules",
+        "href": "https://expressjs.com/en/resources/utils.html"
+      },
+      {
+        "title": "Frameworks",
+        "href": "https://expressjs.com/en/resources/frameworks.html"
+      },
+      {
+        "title": "Companies using Express",
+        "href": "https://expressjs.com/en/resources/companies-using-express.html"
+      },
+      {
+        "title": "Open-source projects",
+        "href": "https://expressjs.com/en/resources/open-source-using-express.html"
+      },
+      {
+        "title": "Additional learning",
+        "href": "https://expressjs.com/en/resources/learning.html"
+      },
+      {
+        "title": "Contributing to Express",
+        "href": "https://expressjs.com/en/resources/contributing.html"
+      },
+      {
+        "title": "Release Change Log",
+        "href": "https://expressjs.com/en/changelog/4x.html"
+      }
+    ]
+  }
+]

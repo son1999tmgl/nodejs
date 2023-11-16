@@ -12,6 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "axios": "^1.6.2",
-    "puppeteer": "^21.5.1"
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.5.1",
+    "sleep": "^6.3.0"
   }
 }
